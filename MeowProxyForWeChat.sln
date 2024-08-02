@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpProxyForText", "src\HttpProxyForText\HttpProxyForText.csproj", "{AAA4AE90-6061-4FE1-B544-BC2E59A19051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "src\Test\Test.csproj", "{3B68B7AD-5000-4DF5-A40F-0CEFF77CA264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA4AE90-6061-4FE1-B544-BC2E59A19051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA4AE90-6061-4FE1-B544-BC2E59A19051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA4AE90-6061-4FE1-B544-BC2E59A19051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA4AE90-6061-4FE1-B544-BC2E59A19051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B68B7AD-5000-4DF5-A40F-0CEFF77CA264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B68B7AD-5000-4DF5-A40F-0CEFF77CA264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B68B7AD-5000-4DF5-A40F-0CEFF77CA264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B68B7AD-5000-4DF5-A40F-0CEFF77CA264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
