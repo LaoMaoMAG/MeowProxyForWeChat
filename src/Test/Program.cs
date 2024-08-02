@@ -1,9 +1,11 @@
-﻿namespace Test;
+﻿using HttpProxyForText;
+
+namespace Test;
 
 internal abstract class Program
 {
-    private static void Main(string[] args)
+    private static async Task Main()
     {
-        Console.WriteLine("Hello, World!");
+       
     }
 }
